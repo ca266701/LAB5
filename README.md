@@ -1,2 +1,2 @@
-# LAB5
-Lab5 Carolyne P
+# JSPlatformer
+JS Platformer for DIG 3480C
